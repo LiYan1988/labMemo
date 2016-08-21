@@ -1,0 +1,7 @@
+Lab 3 is too heavy according to some students - simplify and possibly move stuff to other labs?
+
+We should agree on how students are supposed to carry out each lab task, not only prep task. Criticism 2015 that we say different things. Example: lab 2 last task (max clock frequency)
+
+Can we find another topic for handin 2 - still state machines, but not sequence estimation?
+
+Post no datasheets on the course website (not needed since students find them easily on the web)

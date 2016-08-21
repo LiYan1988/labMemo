@@ -1,0 +1,60 @@
+
+1. Theoretical session: Course quality, contents, and administration
+* Agenda
+* Examination statistics:
+21 lab groups
+ - 39 students passed lab
+ - 36 students took exam Oct. 2015
+ - 36 students passed
+why?
+slightly weaker students this year
+somewhat easier lab, because we gave them more complete codes
+
+
+* Official student feedback
+  - Course survey
+  - Official "kursnämnd": no students present. Lab memo revision planned. Emma expects 25 students next year whereof 16 from "elektro-allmän". The corresponding estimate a year ago was 34 students.
+* Unofficial student feedback
+  - Highly appreciated course
+  - Write comments when grading handins and lab reports (now 2 of 4 handins were commented)
+Written feedback will be provided next year for all 4 handins
+  - Lab 3 is too heavy. Possible solution: Simplify and possibly move stuff to other labs?
+  - We say different things on some lab tasks. Example: lab 2 last task (max clock frequency). Possible solution: We should agree on how students are supposed to carry out each lab task, not only prep task.
+* Self-reflections. What did we do well, and what can be improved until next time?
+  - I am very satisfied overall. Well done everyone!
+  - Can we find another topic for handin 2 - still state machines, but not sequence estimation?
+  - Post no datasheets on the course website (not needed since students find them easily online)
+@ No, keep them
+  - Remove TL071 and LM111 from lab memo and Spice files (done)
+  - Lab memo updates and grading guidelines, see below
+  - Other course material updates?
+  - TA planning for 2016 (and even 2017)
+@ CBC and LY will suggest something early 2016
+
+* Lab tasks and grading
+  - Erik's suggested VHDL revision. E.g., use enable signals instead of slow clocks, and balance the work load better between the lab sessions.
+  - Explicit requirements and score sheet, see point-list-ly151116
+* Specific lab memo updates
+  - Thanks Li and Cristian for updates!
+  - Consistent signal symbols (partly done)
+  - Kopplingsplint JP1 to appendix (done)
+  - Include figure of breadboard connections (Intro)
+  - Remove Appendix from report structure
+  - Much improved instructions of what should be reported!
+  - Skip reporting of pin planning? (Sec 1)
+  - Keep up- and down-counting in prep 2.5?
+  - Manne: Why is s/h threshold 2.8 V? (sec. 4)
+@@ See datasheet. 2.8 V on pin 8 gives threshold 1.4V
+  - Lab 4: report what? (Li's question)
+  - Manne, how represent earphone in Fig. 5.3?
+  - Are prep tasks 5.3 and 5.8 too hard? What can be done?
+  - Remove task 5.6?
+
+2. Practical session: In the lab
+  - Tear down the student breadboards
+  - Store all equipment we will need 2016
+  - Temporarily give Göran breadboards?
+  - Next year: Obtain 6 more breadboards with many contacts (I have asked Göran)
+  - Prepare for move to new lab: similar equipment except old function generators. Is this OK for us?
+  - Test VHDL updates
+  - Store keys until next year
