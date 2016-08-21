@@ -1,0 +1,2 @@
+1. slow clock -> enable signal?
+2. Tx code?
